@@ -7,15 +7,7 @@
   
   <p align="center">
     Sou discente de Sistemas de Informação na Universidade Federal Rural da Amazônia e estudante de front-end.
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+    
   </p>
   
 </div>
