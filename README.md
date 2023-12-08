@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá, eu sou a 
-    <a href="https://www.linkedin.com/in/helenanery/">Helena Nery 😃️</a>
+    <a href="https://www.linkedin.com/in/helenanery/">Helena Nery 👩‍💻</a>
   </h1>
   
   <p align="center">
