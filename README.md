@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou discente de Sistemas de Informação na Universidade Federal Rural da Amazônia e estudante dev back-end.
+    Sou graduanda de Sistemas de Informação na Universidade Federal Rural da Amazônia e estudante data science.
     
   </p>
   
