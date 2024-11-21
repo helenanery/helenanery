@@ -16,6 +16,7 @@
   <a href="https://github.com/helenanery">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=helenanery&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact"/>
+     <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw3BUiBo6Pb7pGveJNz9CD2F&ust=1732277763764000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDnndiz7YkDFQAAAAAdAAAAABAE)"/>
   </a>
 </div>
 
@@ -24,16 +25,6 @@
   <img align="center" alt="github" height="35" width="35"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="git" height="30" width="40" src="![image](https://github.com/user-attachments/assets/8233ad08-4696-4ce5-b7d3-87ebf276609b)
-">
-  <img align="center" alt="github" height="35" width="35"
-src="![image](https://github.com/user-attachments/assets/5d330d2d-8b53-447e-82be-23d227536b8c)
-">
-  <img align="center" alt="linux" height="30" width="40" src="![image](https://github.com/user-attachments/assets/dc2dc285-4ddc-437a-8b1c-2af700f7cd44)
-">
 </div><br>
 
 <div align="center">
