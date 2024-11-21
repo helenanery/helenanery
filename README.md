@@ -16,7 +16,7 @@
   <a href="https://github.com/helenanery">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=helenanery&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact"/>
-     <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw3BUiBo6Pb7pGveJNz9CD2F&ust=1732277763764000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDnndiz7YkDFQAAAAAdAAAAABAE)"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dmysql%2BLogo&psig=AOvVaw3BUiBo6Pb7pGveJNz9CD2F&ust=1732277763764000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDnndiz7YkDFQAAAAAdAAAAABAE)"/>
   </a>
 </div>
 
