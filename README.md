@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou graduanda de Sistemas de Informação na Universidade Federal Rural da Amazônia, Suporte de TI e apaixonada por Ciência de dados.
+    Sou graduanda de Sistemas de Informação na Universidade Federal Rural da Amazônia e estagiária de Administração de Banco de Dados.
     
   </p>
   
