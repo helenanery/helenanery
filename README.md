@@ -11,12 +11,6 @@
   </p>
   
 </div>
-<div align="center">
-  <a href="https://github.com/helenanery">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=helenanery&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenanery&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 <div align="center"><br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
