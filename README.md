@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou graduanda de Sistemas de Informação na Universidade Federal Rural da Amazônia e estagiária de Administração de Banco de Dados.
+    Graduanda de Sistemas de Informação na UFRA, migrando para Análise de Dados e Business Intelligence. Base prática em SQL, Oracle e PostgreSQL construída durante estágio em Administração de Banco de Dados. Em busca de oportunidades como Analista de Dados Júnior ou BI.
     
   </p>
   
